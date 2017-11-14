@@ -4,4 +4,4 @@ php:
 - 7
 - 5
 
-script: phpunit --AgileProcessesScrummyBears/helloworld.php
+script: phpunit --helloworld.php
