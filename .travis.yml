@@ -3,5 +3,8 @@ language: php
 php:
 - 5.5
 - 7.0
+
+script:
+- AgileProcessesScrummyBears/helloworld
 	
 	
