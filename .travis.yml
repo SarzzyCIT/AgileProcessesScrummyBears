@@ -5,4 +5,4 @@ php:
 - 7.0
 
 script:
-- AgileProcessesScrummyBears/helloworld
+- AgileProcessesScrummyBears/helloworld.php
