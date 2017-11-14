@@ -2,6 +2,5 @@ language: php
 
 php:
 - 7
-- 5
 
-script: phpunit --helloworld.php
+script: phpunit --helloworld
