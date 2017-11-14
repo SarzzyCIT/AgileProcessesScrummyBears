@@ -19,7 +19,7 @@
 	echo "Hello ", $SunVar, " <br/>";
 	echo "The $SunVar's core temp is aprox $SunInfo deg Far <br/>";
 	echo "Hello ", $MoonVar, "! <br/>";
-	echo "The $MoonVar is $MoonInfo miles in diameter.</p>";
+	echo "The $MoonVar is $MoonInfo miles diameter.</p>";
 
 ?>
 
