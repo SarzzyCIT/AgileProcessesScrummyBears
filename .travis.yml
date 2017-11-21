@@ -3,4 +3,4 @@ php:
   - "5.4"
   
 script:
--php helloworld.php
+ - php helloworld.php
